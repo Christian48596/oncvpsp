@@ -3,7 +3,7 @@
 #which review the results
 #uses the non-relativistic all-electron atom calculation
 
-PREFIX=/Users/mverstra/CODES/ONCVPSP/GITHUB_VERSION/oncvpsp
+PREFIX=/Users/christian.tantardini/GitHub/oncvpsp
 
 INFILE=$1.dat
 

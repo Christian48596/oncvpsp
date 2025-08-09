@@ -4,7 +4,7 @@
 #_r is appended to the prefix of the output file
 #uses the fully-relativistic all-electron atom calculation
 
-PREFIX=/Users/mverstra/CODES/ONCVPSP/GITHUB_VERSION/oncvpsp
+PREFIX=/Users/christian.tantardini/GitHub/oncvpsp
 
 INFILE=$1.dat
 
